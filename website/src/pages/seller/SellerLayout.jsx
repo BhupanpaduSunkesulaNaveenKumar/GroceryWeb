@@ -6,7 +6,7 @@ import toast from 'react-hot-toast';
 
 const SellerLayout = () => {
 
-    const { axios, navigate } = useAppContext();
+    const { axios, navigate} = useAppContext();
   
 
   
